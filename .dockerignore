@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.pytest_cache/
+.ruff_cache/
+tests/
+train_model.ipynb
+*.md
+.env
+.vscode/
+.idea/
+observability/
+docker-compose.yml
